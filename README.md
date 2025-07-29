@@ -1,4 +1,4 @@
 # To-do-list-app
-Created this app as mine project 
+Created this app as project 
 Still learning python
 (Trying to do better) 
